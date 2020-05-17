@@ -6,7 +6,7 @@ A simple game created for the browser with Phaser as part of a the game developm
 ![classic-shooter](https://user-images.githubusercontent.com/26629624/77252976-ca49a500-6c57-11ea-97bd-6db312c52c39.gif)
 
 
-The Game editable and pllayable from the folowing link: [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/phaser3-typescript-classic-shooter-kourosh)
+The Game is editable and playable from the folowing link: [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/phaser3-typescript-classic-shooter-kourosh)
 
 Description:  Create a top-down shooter HTML5 app.
 
